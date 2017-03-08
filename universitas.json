@@ -1,0 +1,152 @@
+[
+	{
+		"name": "Universitas Siliwangi",
+		"location": "Jl. Siliwangi No.24 Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Universitas Siliwangi\n Tanggal Berdiri : 1 April 2014\n Nomor SK PT : Perpres No.24 Tahun 2014\n Tanggal SK PT : 2 April 2014\n Alamat : Jl.Siliwangi No.24 Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46115\n Telepon : 0265-330534\n FaxiMile : 0265-325812\n Email : info@unsil.ac.id\n Website : www.unsil.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_siliwangi.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/unsil.jpg",
+        "caption": "Universitas Siliwangi (disingkat UNSIL) adalah sebuah perguruan tinggi negeri di Tasikmalaya, Jawa Barat, Indonesia",
+		"latitude": -7.349310,
+		"longitude": 108.223005
+	},
+	{
+		"name": "Universitas Perjuangan",
+		"location": "Jl. Pembela Tanah Air 177, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Universitas Perjuangan Tasikmalaya\n Tanggal Berdiri : 17 Oktober 2014\n Nomor SK PT : 603/E/0/2014\n Tanggal SK PT : 17 Oktober 2014\n Alamat : Jl.Peta No.002\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46115\n Telepon : 0265-326058\n FaxiMile : 0265-7296955\n Email : info@unper.ac.id\n Website : www.unper.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_unper.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/unper.jpg",
+        "caption": "Universitas Perjuangan adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.352246,
+		"longitude": 108.223176
+	},
+	{
+		"name": "UPI Tasikmalaya",
+		"location": "Jl. Dadaha No.18, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Universitas Pendidikan Indonesia\n Tanggal Berdiri : 20 Oktober 1954\n Nomor SK PT : PP NO 6 TAHUN 2004\n Tanggal SK PT : 30 Januari 2004\n Alamat : Jl.Dadaha No.18 Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46112\n Telepon : 0265-2013161\n FaxiMile : 0265-2013161\n Email : info@upi.edu\n Website : info@upi.edu",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_upi.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/upi.jpg",
+		"caption": "UPI Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.336408,
+		"longitude": 108.224582
+	},
+	{
+		"name": "STIKes BTH Tasikmalaya",
+		"location": "Jl. Cilolohan No.36, Kahuripan, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Kesehatan Bakti Tunas Husada\n Tanggal Berdiri : 17 April 2004\n Nomor SK PT : 60DO2004\n Tanggal SK PT : 27 April 2004\n Alamat : Jl.Cilolohan No 36, Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46115\n Telepon : 0265-334740\n FaxiMile : 0265-327224\n Email : mail@stikes-bth.ac.id\n Website : www.stikes.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_stik.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stik.jpg",
+        "caption": "STIKes BTH Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.347668,
+		"longitude": 108.233712
+	},
+	{
+		"name": "BSI Tasikmalaya",
+		"location": "Jl. Tanuwijaya No.4 Empang Sari, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : AMIK BSI Tasikmalaya\n Tanggal Berdiri : 15 Maret 1999\n Nomor SK PT : 56/DIKTI/KEP/1999\n Tanggal SK PT : 15 Maret 1999\n Alamat : Jl.Tanuwijaya No.4, Empang Sari, Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46112\n Telepon : 0265-328301\n FaxiMile : 0265-328301\n Email : amik.tasikmalaya@bsi.ac.id\n Website : www.bsi.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_bsi.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/bsi.jpg",
+		"caption": "BSI Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.328227,
+		"longitude": 108.226830
+	},
+	{
+		"name": "STIA YPPT Priatim Tasikmalaya",
+        "location": "Jl. Perintis Kemerdekaan No.200, Kawalu, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya\n Tanggal Berdiri : 23 April 1984\n Nomor SK PT : 0312NIV1984\n Tanggal SK PT : 23 April 1984\n Alamat : Jl.Perintis Kemerdekaan No.200, Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46182\n Telepon : 0265-332878\n FaxiMile : 0265-334228\n Email : stia.tasikmalaya@.ac.id\n Website : www.stia-tasik.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_stia.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stia.jpg",
+		"caption": "STIA YPPT Priatim Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.373862,
+		"longitude": 108.211407
+	},
+	{
+		"name": "STMIK DCI Tasikmalaya",
+        "location": "Jl. Sutisna Senjaya No.158, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : STMIK DCI\n Tanggal Berdiri : 13 Juli 1999\n Nomor SK PT : 116DO1999\n Tanggal SK PT : 13 Juli 1999\n Alamat : Jl.Sutisna Senjaya No.158 A Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46111\n Telepon : 0265-340743\n FaxiMile : 0265-335906\n Email : stmikdci@yahoo.co.id\n Website : www.stmik-dci.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_dci.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/dci.JPG",
+		"caption": "STMIK DCI Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.331280,
+		"longitude": 108.233516
+	},
+	{
+		"name": "STMIK Tasikmalaya",
+		"location": "Jl. RE Martadinata No.272-A, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : STMIK Tasikmalaya\n Tanggal Berdiri : 26 September 2001\n Nomor SK PT : 202DO2001\n Tanggal SK PT : 26 September 2001\n Alamat : Jl.RE Martadinata 272-A Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46111\n Telepon : 0265-310830\n FaxiMile : 0265-310830\n Email : kantorpusat@stmik-tasikmalaya.ac.id\n Website : www.stmik-tasikmalaya.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_stimik.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stmik.jpg",
+		"caption": "STMIK Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.306101,
+		"longitude": 108.207328
+	},
+	{
+		"name": "Sekolah Tinggi Teknologi Cipasung",
+        "location": "Jalan Raya Cisinga KM1, Cilampunghilir Padakembang",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Teknologi Cipasung\n Tanggal Berdiri : 29 Mei 1997\n Nomor SK PT : 35DO1998\n Tanggal SK PT : 25 Mei 1998\n Alamat : Jl.Cisiga KM 01 Cilampunghilir Padakembang\n Kota/Kabupaten : Kab. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46446\n Telepon : 0265-2550424\n FaxiMile : 0265-2550424\n Email : sttcipasung_tmi@yahoo.com\n Website : www.sttcipasung.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_stt_cipasung.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stt_cipasung.png",
+		"caption": "Sekolah Tinggi Teknologi Cipasung adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.341382,
+		"longitude": 108.127312
+	},
+	{
+		"name": "Universitas Muhammadiyah Tasikmalaya",
+		"location": "Jl. Tamansari Gobras, Jawa Barat",
+        "description": " Status : Aktif\n Perguruan Tinggi : Universitas Muhammadiyah Tasikmalaya\n Tanggal Berdiri : 17 Oktober 2004\n Nomor SK PT : 598/E/O/2014\n Tanggal SK PT : 17 Oktober 2004\n Alamat : Jl.Tamansari Gobras, Tasikmalaya\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46196\n Telepon : 0265-2350982\n FaxiMile : 0265-3250982\n Email : info@untas.ac.id\n Website : www.untas.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_muhammadyah.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/muhammadiyah.jpg",
+		"caption": "Universitas Muhammadiyah Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
+		"latitude": -7.366861,
+		"longitude": 108.228423
+	},
+	{
+		"name": "Sekolah Tinggi Hukum Galunggung",
+		"location": "Jl. KH. Lukmanul Hakim No.17, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Hukum Galunggung\n Tanggal Berdiri : 10 Desember 1973\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 14 Oktober 2005\n Alamat : Jl.KH Lukmannul Hakim No.17\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46112\n Telepon : 0265-330092\n FaxiMile : 0265-330092\n Email : sth_galunggung@yahoo.co.id\n Website : www.sthg.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_sthg.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stgh.jpg",
+		"caption": "Sekolah Tinggi Hukum Galunggung Tasikmakaya (STHG) adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.343711,
+		"longitude": 108.212073
+	},
+	{
+		"name": "Sekolah Tinggi Ilmu Ekonomi Cipasung",
+		"location": "Jl. Muktamar NU No.29, Singaparna",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Ekonomi Cipasung\n Tanggal Berdiri : 1 Januari 1999\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 23 Juni 2006\n Alamat : Jl. Muktamar NU No.29, Singaparna\n Kota/Kabupaten : Kab. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46417\n Telepon : 0265-546028\n FaxiMile : 0265-546028\n Email : stie_cipasung@yahoo.co.id\n Website : www.stie_cipasung.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_stle_cipasung.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stie_cipasung.png",
+		"caption": "Sekolah Tinggi Ilmu Ekonomi Cipasung adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.342980,
+		"longitude": 108.125206
+	},
+	{
+		"name": "LP3i Tasikmalaya",
+		"location": "Jl. Ir.H.Juanda, Bantarsari, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : LP3i Tasikmalaya\n Tanggal Berdiri : 1 Januari 1999\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 23 Juni 2006\n Alamat : Jl. Ir.H.Juanda, Bantarsari, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46417\n Telepon : 0265-546028\n FaxiMile : 0265-546028\n Email : lp3i_tasik@yahoo.co.id\n Website : www.lp3i.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_lp3i.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/lp3i.jpg",
+		"caption": "LP3i Tasikmalaya adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.320618,
+		"longitude": 108.198414
+	},
+	{
+		"name": "Politeknik Triguna Tasikmalaya",
+		"location": "Jl. Raya Indihiang No.7, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Politeknik Triguna Tasikmalaya\n Tanggal Berdiri : 21 Agustus 2008\n Nomor SK PT : 166DO2008\n Tanggal SK PT : 21 Agustus 2008\n Alamat : Jl. Raya Indihiang No.7, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46151\n Telepon : 0265-323232\n FaxiMile : 0265-323232\n Email : trigunatasik@poltektriguna.co.id\n Website : www.politekniktriguna.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_triguna.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/triguna.png",
+		"caption": "Politeknik Triguna Tasikmalaya adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.300590,
+		"longitude": 108.202367
+	},
+	{
+		"name": "Sekolah Tinggi Ilmu Kesehatan Respati",
+		"location": "Singaparna KM 11 Cikunir, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Kesehatan Respati\n Tanggal Berdiri : 08 Oktober 2002\n Nomor SK PT : 227DO2002\n Tanggal SK PT : 08 Oktober 2002\n Alamat : Singaparna KM 11 Cikunir, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46418\n Telepon : 0265-549335\n FaxiMile : 0265-549336\n Email : bayu.thira@gmail.com\n Website : www.stikesrespati.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_respati.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/respatih.jpg",
+		"caption": "Sekolah Tinggi Ilmu Kesehatan Respati adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.336855,
+		"longitude": 108.153958
+	}
+]

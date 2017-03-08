@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Universitas Siliwangi",
+		"snippet": "Jl. Siliwangi No.24 Tasikmalaya",
+		"latitude": -7.349762,
+		"longitude": 108.222928
+	},
+	{
+		"name": "Universitas Perjuangan",
+		"snippet": "Jl. Pembela Tanah Air 177, Tasikmalaya",
+		"latitude": -7.352496,
+		"longitude": 108.224236
+	},
+	{
+		"name": "UPI Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.336844,
+		"longitude": 108.224730
+	},
+	{
+		"name": "STIKes BTH Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.347516,
+		"longitude": 108.231886
+	},
+	{
+		"name": "BSI Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.328027,
+		"longitude": 108.227090
+	},
+	{
+		"name": "LP3I Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.320632,
+		"longitude": 108.198729
+	},
+	{
+		"name": "STHG Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.343702,
+		"longitude": 108.211989
+	},
+	{
+		"name": "STMIK Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.306377,
+		"longitude": 108.207478
+	},
+	{
+		"name": "Politeknik Triguna Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.300711,
+		"longitude": 108.202441
+	},
+	{
+		"name": "Universitas Muhammadiyah Tasikmalaya",
+		"snippet": "Jl. Dadaha No.18, Tasikmalaya",
+		"latitude": -7.370451,
+		"longitude": 108.230927
+	}
+]
